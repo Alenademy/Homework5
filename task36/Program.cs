@@ -4,7 +4,7 @@
         FillArrayRandomNumbers(numbers);
 
         PrintArray(numbers);
-    int count = 0;
+    
 
         void FillArrayRandomNumbers(int[] numbers)
         {
